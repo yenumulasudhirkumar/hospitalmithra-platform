@@ -2,7 +2,6 @@
 .github
 .idea
 *.iml
-target
 .env
 *.log
 README.md
